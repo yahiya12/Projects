@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "post": "third post"
+    },
+    {
+      "post": "latest",
+      "id": 5
+    },
+    {
+      "post": "my new task",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment"
+    },
+    {
+      "id": 2,
+      "body": "second comment"
+    }
+  ]
+}
