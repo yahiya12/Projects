@@ -1,0 +1,78 @@
+{
+"books":[
+    {
+        "id":1,
+        "name":"React Book",
+        "price":799,
+        "imgName":"b.jpg"
+
+    },
+    {
+        "id":2,
+        "name":"TypeScript",
+        "price":1299,
+        "imgName":"b8.jpg"
+
+    },
+    {
+        "id":3,
+        "name":"JavaScript Course",
+        "price":1799,
+        "imgName":"b2.jpg"
+
+    },
+    {
+        "id":4,
+        "name":"Java Book",
+        "price":999,
+        "imgName":"b3.jpg"
+
+    },
+    {
+        "id":5,
+        "name":"Node JS Course",
+        "price":999,
+        "imgName":"b4.jpg"
+
+    },
+    {
+        "id":6,
+        "name":"JS & jquery",
+        "price":1199,
+        "imgName":"b6.jpg"
+
+    }
+   
+],
+
+"merch":[
+    {
+        "id":7,
+        "name":"Black T-Shirt",
+        "price":1499,
+        "imgName":"t1.jpg"
+
+    },
+    {
+        "id":8,
+        "name":"Yellow Coding",
+        "price":1399,
+        "imgName":"t6.jpg"
+
+    },
+    {
+        "id":9,
+        "name":"Shoes",
+        "price":1699,
+        "imgName":"t8.jpg"
+
+    },
+    {
+        "id":10,
+        "name":"Black Hodie",
+        "price":1339,
+        "imgName":"t7.jpg"
+
+    }
+ ]
+}
